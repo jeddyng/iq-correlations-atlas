@@ -92,6 +92,8 @@ I'm Jedidiah — an SMU student interested in data, psychometrics, and systems t
 
 If you want the HTML file, have corrections, or want to discuss any of the findings:
 
+Please email me at jedidiahng2002@gmail.com
+
 ## License
 
 This is a personal research compilation. The underlying research belongs to its respective authors and publishers. This document is shared for educational purposes. If you are a researcher whose work is cited here and want a correction or removal, please contact me.
