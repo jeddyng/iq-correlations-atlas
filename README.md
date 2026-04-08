@@ -2,8 +2,6 @@
 
 **A comprehensive, interactive reference document cataloging 780+ empirical correlations, associations, and causal relationships with intelligence (IQ / g-factor).**
 
-[**→ View the Live Atlas**](https://jeddyng.github.io/iq-correlations-atlas/)
-
 ---
 
 ## ⚠️ Important Disclaimers
